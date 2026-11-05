@@ -61,13 +61,14 @@ The dataset is relatively balanced by gender, while the age distribution is conc
 The Power BI dashboard is organized into two primary analytical views.
 
 ### 1. General Cancer Risk Dashboard
-
+<img width="991" height="567" alt="Cancer_risk_dashboard" src="https://github.com/user-attachments/assets/19a1e3fc-cd29-40b4-9a7d-dbd4e7ebe55f" />
 Provides an aggregated overview of all **2,000 observations**, allowing users to examine overall patterns in:
 
 * Demographics
 * Cancer type distribution
 * Lifestyle factors
 * Dietary factors
+
 * Genetic and health factors
 * Environmental exposures
 * Occupational hazards
